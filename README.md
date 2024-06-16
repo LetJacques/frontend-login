@@ -1,8 +1,11 @@
-# React + Vite
+# Projeto de Página de Login em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto implementa uma página de login responsiva utilizando React.
 
-Currently, two official plugins are available:
+- Autenticação: Suporta login básico com validação de e-mail e senha.
+- OAuth do Google: Integração com OAuth para login através do Google.
+- Design Interativo: Utiliza animações CSS para um fundo dinâmico com folhas em movimento e uma personagem animada.
+- Estilização: Layout moderno com uso de backdrop filter e sombras para efeitos visuais.
+- Tecnologias Utilizadas: React, bootstrap e CSS para estilização.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Este projeto foi criado como parte de um exercício para demonstrar habilidades em React e design de interface.
