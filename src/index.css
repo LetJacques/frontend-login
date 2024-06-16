@@ -1,0 +1,15 @@
+:root {
+  --red-primary-color: #8f2c24;
+  --red-hover-color: #d64c42;
+  --white-color: #fff;
+  --background-login: #ffffff40;
+  --border-color: #ffffff80;
+  --shadow-color:#0000001a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
